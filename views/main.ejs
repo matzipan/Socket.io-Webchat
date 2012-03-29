@@ -1,0 +1,22 @@
+<div id="content">
+	<div id="chatLog"></div>
+	<div id="userList"></div>
+	<input type="text" id="messageBox" />
+	<div id="contentOverlay"></div>
+	<div id="preloadDialog">
+		<h3>Se incarca</h3>
+		<span>Va rugam sa asteptati pana cand se face conexiunea la server. Multumim!</span>
+	</div>
+	<div id="notificationsDialog">
+
+	</div>
+	<div id="nicknameDialog">
+		<span>Introdu numele dorit: </span>
+		<input type="text" id="nicknameContainer" />
+		<div id="submitNickname">Trimite</div>
+		<div id="nicknameDialogLoader"></div>
+	</div>
+</div>
+<script defer src="/socket.io/socket.io.js"></script>
+<script defer src="/javascripts/libs/underscore.min.js"></script>
+<script defer src="/javascripts/script.js"></script>

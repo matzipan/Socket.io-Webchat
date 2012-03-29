@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+	<head>
+		<title><% if(typeof title != "undefined" && title != "") { %><%= title %> - <% } %><%= sitename %></title>
+		<link rel= "stylesheet" href="/stylesheets/style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+		<script>
+			window.jQuery || document.write('<script src="javascripts/libs/jquery-1.7.1.min.js"><\/script>');
+			typeof window.jQuery.ui !== "undefined" || document.write('<script src="javascripts/libs/jquery-ui-1.8.18.min.js"><\/script>')
+		</script>
+	</head>
+	<body>
+		<% if(typeof title != "undefined" && title != "") { %><h1><%= title %></h1><% } %>
+		<%- body %>
+	</body>
+</html>

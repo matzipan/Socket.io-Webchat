@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Content",
+				"contentOverlay"
+			],
+			[
+				"add",
+				"addServerMessage"
+			],
+			[
+				"user",
+				"userList"
+			],
+			[
+				"content",
+				"contentOverlay"
+			],
+			[
+				"cb_location",
+				"cb_location_entity"
+			],
+			[
+				"ORIGINAL",
+				"ORIGINAL_PICTURE_WIDTH"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Phing.sublime-build",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/matzipan/Workspace/Atestat/routes/index.js",
+		"/home/matzipan/Workspace/Atestat/views/index.ejs",
+		"/home/matzipan/Workspace/Atestat/public/stylesheets/style.css",
+		"/home/matzipan/Workspace/Atestat/views/layout.ejs",
+		"/home/matzipan/Workspace/Atestat/app.js",
+		"/home/matzipan/Workspace/Atestat/views/main.ejs",
+		"/home/matzipan/Workspace/Atestat/logic/control.js",
+		"/home/matzipan/Workspace/Atestat/public/javascripts/script.js",
+		"/home/matzipan/Workspace/Atestat/logic/index.js",
+		"/home/matzipan/Workspace/Atestat/logic/server.js",
+		"/home/matzipan/Workspace/Atestat/public/images/style.css",
+		"/home/matzipan/Workspace/cityblitz/scripts/configurations/local.php",
+		"/home/matzipan/Workspace/cityblitz/scripts/build.xml",
+		"/home/matzipan/Workspace/cityblitz/build/local/www/.htaccess",
+		"/home/matzipan/Workspace/cityblitz/www/index.php",
+		"/home/matzipan/Workspace/cityblitz/cityblitz.sublime-project",
+		"/home/matzipan/Workspace/cityblitz/build/local/www/index.php",
+		"/home/matzipan/Workspace/cityblitz/www/.htaccess",
+		"/home/matzipan/Workspace/cityblitz/build/local/htdocs/.htaccess",
+		"/home/matzipan/.config/sublime-text-2/Packages/User/Phing.sublime-build",
+		"/home/matzipan/Workspace/cityblitz/cityblitz.sublime-build",
+		"/var/www/cityblitz/.htaccess",
+		"/var/www/cityblitz/scripts/build.xml",
+		"/var/www/cityblitz/.gitignore",
+		"/var/www/cityblitz/scripts/configurations/local.php",
+		"/var/www/cityblitz/scripts/db/final.sql",
+		"/home/matzipan/Dropbox/test.sql",
+		"/var/www/cityblitz/scripts/cityblitz.config",
+		"/var/www/cityblitz/scripts/build_old.xml",
+		"/var/www/cityblitz/scripts/configurations/staging.php",
+		"/var/www/cityblitz/www/views/header-no-flash.tpl",
+		"/var/www/cityblitz/www/views/footer-no-sidebar.tpl",
+		"/var/www/cityblitz/www/includes/config.php",
+		"/var/www/cityblitz/www/models/Events.php",
+		"/var/www/cityblitz/www/controllers/Index.php",
+		"/home/matzipan/Workspace/Atestat-client/app.js",
+		"/var/www/cityblitz/scripts/cityblitz.config~",
+		"/var/www/cityblitz/www/css/style.css",
+		"/var/www/cityblitz/www/views/sidebar.tpl",
+		"/var/www/cityblitz/www/views/Localuri/detalii.tpl",
+		"/var/www/cityblitz/www/controllers/Localuri.php",
+		"/var/www/cityblitz/www/models/Locations.php",
+		"/var/www/cityblitz/www/libs/functions.php",
+		"/var/www/cityblitz/www/libs/app/Locations.php",
+		"/var/www/cityblitz/scripts/db/deltas/1-location_subdomains.sql",
+		"/tmp/fz3temp-1/script.js",
+		"/tmp/fz3temp-1/header-no-flash.tpl",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/footer-no-sidebar.tpl",
+		"/tmp/fz3temp-1/config.php",
+		"/tmp/fz3temp-1/Localuri.php",
+		"/tmp/fz3temp-1/Location_Subdomains.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/Galleries.php",
+		"/tmp/fz3temp-1/index.tpl",
+		"/tmp/fz3temp-1/Index.php",
+		"/var/www/cityblitz/www/includes/ini.php",
+		"/var/www/cityblitz/scripts/db/deploys/201203190108-deploy.sql",
+		"/var/www/cityblitz/scripts/db/deploys/201203190102-deploy.sql",
+		"/var/www/cityblitz/scripts/db/deltas/2-location_subdomains.sql",
+		"/var/www/cityblitz/www/libs/app/Events.php",
+		"/var/www/cityblitz/www/libs/app/Galleries.php",
+		"/var/www/cityblitz/www/models/Location_Subdomains.php",
+		"/var/www/cityblitz/www/models/Facebook_Albums.php",
+		"/var/www/cityblitz/www/models/Facebook_Pages.php",
+		"/var/www/cityblitz/scripts/configurations/production.php",
+		"/var/www/cityblitz/www/includes/error.log",
+		"/var/www/cityblitz/www/models/Carousel.php",
+		"/var/www/cityblitz/www/libs/Cache.php",
+		"/var/www/cityblitz/www/index.php",
+		"/etc/hosts",
+		"/var/www/cityblitz/scripts/db/deltas/1-photo_date.sql",
+		"/home/matzipan/Desktop/chicos/prima pag.html",
+		"/home/matzipan/Desktop/chicos/gf.html",
+		"/home/matzipan/Desktop/index.html",
+		"/var/www/cityblitz/www/libs/app/Movies.php",
+		"/var/www/cityblitz/www/libs/app/News.php",
+		"/var/www/cityblitz/www/libs/app/Photographer.php",
+		"/tmp/fz3temp-1/menu.css",
+		"/var/log/apache2/error.log",
+		"/var/www/cityblitz/www/.htaccess",
+		"/home/matzipan/.gvfs/FTP as monsters on ftp.webmonsters.ro/public_html/humans.txt",
+		"/home/matzipan/Dropbox/todo.txt",
+		"/var/www/cityblitz/scripts/db/initial.sql",
+		"/var/www/cityblitz/www/temp/smarty/compiled/d255f08176eecadba2d0c63fed9fd1026d583b3d.file.header-no-flash.tpl.php",
+		"/var/www/cityblitz/www/temp/smarty/compiled/4d7d5d6451c39207201e9563884ec840cffb0a66.file.index.tpl.php",
+		"/tmp/fz3temp-1/index.html",
+		"/var/www/cityblitz/www/libs/Facebook/base_facebook.php",
+		"/var/www/cityblitz/scripts/db/deploys/201203152204-deploy.sql",
+		"/var/www/cityblitz/scripts/db/deploys/201203152201-deploy.sql",
+		"/media/School n Work/Zend/Apache2/htdocs/cityblitz/scripts/build.xml",
+		"/media/School n Work/Zend/Apache2/htdocs/cityblitz/scripts/cityblitz.config",
+		"/home/matzipan/Atestat/routes/index.js",
+		"/home/matzipan/Atestat/views/layout.ejs",
+		"/home/matzipan/Atestat/views/index.ejs",
+		"/home/matzipan/Atestat-client/app.js",
+		"/home/matzipan/Atestat/app.js",
+		"/home/matzipan/Atestat/public/javascripts/script.js",
+		"/home/matzipan/Desktop/untitled.txt",
+		"/home/matzipan/Desktop/untitled",
+		"/home/matzipan/style.css",
+		"/home/matzipan/Desktop/Website/deploy/build.xml",
+		"/home/matzipan/Desktop/Website/deploy/build.default.properties",
+		"/home/matzipan/Desktop/Website/deploy/server.default.properties",
+		"/home/matzipan/Desktop/Website/deploy/server.xml",
+		"/home/matzipan/Atestat/views/index.jade",
+		"/home/matzipan/Atestat/js/app.js",
+		"/tmp/fz3temp-1/ajax_controller.php",
+		"/tmp/fz3temp-1/editor.js",
+		"/tmp/fz3temp-1/edit.ctp",
+		"/home/matzipan/Desktop/editor.js",
+		"/tmp/fz3temp-1/lib.js",
+		"/tmp/fz3temp-1/default.ctp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"emit",
+			"containerBox",
+			"set",
+			"DialogLoader",
+			"());",
+			"url(images",
+			"));",
+			"htdocs",
+			"delete",
+			"cache",
+			"\" />",
+			"scripts/db",
+			"by_date",
+			".share",
+			"input",
+			"` ",
+			"get_galleries_by_dates",
+			"tofile",
+			"LEFT JOIN",
+			"get_location_by_id",
+			"CACHE_DISABLE",
+			"CACHE_DISABLE_DEV",
+			"disable",
+			"Location_Meta",
+			"get_reserved_libs",
+			"*/",
+			"ads",
+			"ads.",
+			"location_types",
+			"[1",
+			"[$",
+			"1",
+			"facebook",
+			".\".",
+			"\");",
+			"load_lib",
+			"smarty",
+			"IF NOT EXISTS ",
+			"database",
+			"ejs",
+			"', '",
+			"password",
+			" = \"\"",
+			"name",
+			"site-install",
+			"TODO",
+			"addPictureToTemplate",
+			"switchToColor",
+			"bw",
+			"greyscale",
+			"uploadImageComplete",
+			"hidePictureEditor",
+			"ADdpicture",
+			"rotate",
+			"makeImage",
+			"drawPicture",
+			"src =",
+			"updateCanvas",
+			"ditor.opts.Images.zoomStep",
+			"Editor.opts.Images.zoomSte",
+			"+0.1",
+			"editorZoomOut",
+			"zoomOut",
+			"CONTAINER_WIDTH>",
+			"CONTAINER_WIDTH",
+			"CONTAINER_WIDTH)",
+			"CONTAINER_HEIGHT",
+			"editorRotate",
+			"ORIGINAL_PICTURE_HEIGHT",
+			"ORIGINAL_PICTURE_WIDTH",
+			"CONTAINER_WIDTH",
+			"rotate",
+			"0.01",
+			"0.1",
+			"editorRotate",
+			"rotate",
+			"editorRotate",
+			"scl",
+			"editorZoomIn",
+			"moveCursor",
+			"initial_scale",
+			"editorRotate",
+			"props",
+			"moveCursor",
+			"editorZoomIn",
+			"zoomout",
+			"#resetContr",
+			"initial_src",
+			"initial_scale",
+			"initial_src",
+			"; ",
+			"reset",
+			"@TODO",
+			"console.log",
+			"openPicture",
+			"console.log",
+			"prepare",
+			"console.log",
+			");",
+			"makeImageEditor",
+			".scl",
+			"scl",
+			"makeImageEditorLink",
+			"templateName",
+			"();"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url(../images/jquery-ui",
+			"www",
+			"CACHE_DISABLE_DEV",
+			"",
+			"CONTAINER_WIDTH<",
+			"CONTAINER_HEIGHT)",
+			"ORIGINAL_HEIGHT",
+			"ORIGINAL_WIDTH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}
