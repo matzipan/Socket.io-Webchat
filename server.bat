@@ -1,1 +1,1 @@
-node.exe app.js
+node app.js
