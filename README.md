@@ -1,4 +1,3 @@
-
 ### Node.js simple chat app
 
 It is originally intended as my (Zisu Andrei) high-school professional certification project. 
